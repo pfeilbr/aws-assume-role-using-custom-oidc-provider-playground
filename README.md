@@ -43,3 +43,4 @@ see also [AWS federation comes to GitHub Actions](https://awsteele.com/blog/2021
 * [AWS federation comes to GitHub Actions](https://awsteele.com/blog/2021/09/15/aws-federation-comes-to-github-actions.html)
 * [pfeilbr/aws-custom-nodejs-oidc-provider-server-on-heroku](https://github.com/pfeilbr/aws-custom-nodejs-oidc-provider-server-on-heroku)
 * [Secure Communication Between Actions and App](https://github.community/t/secure-communication-between-actions-and-app/201330)
+* [Deploy on AWS using Bitbucket Pipelines OpenID Connect](https://support.atlassian.com/bitbucket-cloud/docs/deploy-on-aws-using-bitbucket-pipelines-openid-connect/)
